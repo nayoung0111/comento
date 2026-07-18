@@ -41,9 +41,10 @@ python image_preprocessing.py
 # 2차 과제: Unit Test 및 2D → 3D 변환
 
 ## 실행 방법
-
+```bash
 pytest unittest_3d.py -v
 python depth_to_3d.py
+```
 
 ## 결과물
 | 파일 | 설명 |
